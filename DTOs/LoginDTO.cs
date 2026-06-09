@@ -1,4 +1,4 @@
-namespace TodoApi.DTOs;
+namespace Todo.DTOs;
 
 public class LoginDto {
     public string Email { get; set; } = "";

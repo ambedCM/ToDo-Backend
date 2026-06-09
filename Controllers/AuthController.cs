@@ -6,7 +6,7 @@ using Todo.DTO;
 using Todo.Models;
 using Todo.Services;
 using System.Security.Claims;
-using TodoApi.DTOs;
+using Todo.DTOs;
 
 namespace Todo.Controllers {
     [ApiController]
